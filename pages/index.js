@@ -14,20 +14,20 @@ const Home = () => {
   return (
     <div className={styles.container}>
       <Head>
-        <title>LadderCaster</title>
+        <title>ShreeCloud</title>
         <meta
           name="description"
-          content="Real-time mobile strategy & NFT market economy game"
+          content="Minecraft Server and VPS Hosting"
         />
         <link rel="icon" href="/favicon.ico" />
-        <meta property="og:title" content="LadderCaster" />
-        <meta name="twitter:title" content="LadderCaster" />
-        <meta property="og:site_name" content="LadderCaster" />
-        <meta property="og:url" content="https://laddercaster.com/" />
-        <meta name="twitter:url" content="https:/laddercaster.com" />
+        <meta property="og:title" content="ShreeCloud" />
+        <meta name="twitter:title" content="ShreeCloud" />
+        <meta property="og:site_name" content="ShreeCloud" />
+        <meta property="og:url" content="https://shreecloud.space/" />
+        <meta name="twitter:url" content="https:/shreecloud.space" />
         <meta
           property="og:description"
-          content="Real-time mobile strategy & NFT market economy game"
+          content="Minecraft Server and VPS Hosting"
         />
         <meta property="og:type" content="website" />
         <meta
