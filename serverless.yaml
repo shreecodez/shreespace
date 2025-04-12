@@ -1,8 +1,8 @@
 component: website
-name: ladder-caster-landing
+name: ShreeCloud
 stage: prod
 
 inputs:
   src: ./out
-  domain: https://laddercaster.com
+  domain: https://shreecloud.space
   region: us-east-1
